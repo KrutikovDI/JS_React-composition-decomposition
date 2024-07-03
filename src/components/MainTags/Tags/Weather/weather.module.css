@@ -1,0 +1,15 @@
+.weather{
+    display: flex;
+}
+
+.img{
+    width: 50px;
+}
+
+.temp{
+    font-size: 40px;
+}
+
+.day-morning{
+    margin-top: 7px;
+}

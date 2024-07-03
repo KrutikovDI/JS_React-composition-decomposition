@@ -1,0 +1,19 @@
+.news{
+  font-family: Verdana, sans-serif;
+  width: 5600px;
+}
+
+.new{
+  list-style-type: none;
+}
+
+.img{
+  vertical-align: middle;
+  width: 40px;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+}
+

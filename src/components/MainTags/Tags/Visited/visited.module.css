@@ -1,0 +1,8 @@
+.conteiner{
+  display: flex;
+}
+
+.addit{
+  margin-left: 5px;
+  color: rgb(189, 189, 189);
+}

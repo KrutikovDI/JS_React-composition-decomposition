@@ -1,0 +1,11 @@
+.tooltip{
+    display: flex;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.text{
+    color: rgb(124, 121, 121);
+}

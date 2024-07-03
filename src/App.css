@@ -1,0 +1,19 @@
+.top{
+  display: flex;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+.main-news{
+  width: 900px;
+}
+
+.main-search{
+  margin-bottom: 50px;
+}
+
+.main-tags{
+  display: flex;
+  flex-wrap: wrap;
+  width: 900px;
+}

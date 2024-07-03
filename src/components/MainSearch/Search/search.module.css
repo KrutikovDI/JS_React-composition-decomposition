@@ -1,0 +1,16 @@
+.search{
+    display: flex;
+}
+
+.input{
+    width: 900px;
+    height: 40px;
+    border: 2px solid yellow;
+}
+
+.btn{
+    width: 100px;
+    border: 2px solid yellow;
+    background-color: yellow;
+    font-size: 18px;
+}
